@@ -1,6 +1,8 @@
 # CNN-Audio-Recognition
 This project is a Python-based deep learning system for recognizing and interpreting audio using a Convolutional Neural Network (CNN).   The model converts raw audio signals into spectrograms and classifies them into textual or categorical outputs.
 
+Dataset Link: https://drive.google.com/file/d/1ObUSRUHflQh7B00KLPxjrP38gV73Vhyx/view?usp=sharing
+
 ## ⚙️ Project Workflow
 
 ### 1. Dataset Preparation
